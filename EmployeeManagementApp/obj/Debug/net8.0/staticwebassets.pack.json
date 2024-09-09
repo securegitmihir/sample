@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmployeeManagementApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmployeeManagementApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmployeeManagementApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmployeeManagementApp.props",
+      "PackagePath": "build\\EmployeeManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeManagementApp.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmployeeManagementApp.props",
+      "PackagePath": "buildTransitive\\EmployeeManagementApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

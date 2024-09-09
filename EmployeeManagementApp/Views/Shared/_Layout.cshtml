@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sample</title>
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                 <h1>Devextreme Component doesn't load😒</h1>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <link href="~/bundle/devextreme.bundle.css" rel="stylesheet" />
+        <link href="~/bundle/bootstrap.bundle.css" rel="stylesheet" />
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/bundle/devextreme.bundle.js"></script>
+    <script src="~/bundle/bootstrap.bundle.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
