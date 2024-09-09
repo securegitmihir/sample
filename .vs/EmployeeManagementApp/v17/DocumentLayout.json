@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CDF2BDC0-DE62-4E09-BF46-24314010CE04}|Solution Items{CDF2BDC0-DE62-4E09-BF46-24314010CE04}|C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CDF2BDC0-DE62-4E09-BF46-24314010CE04}|Solution Items{CDF2BDC0-DE62-4E09-BF46-24314010CE04}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9CED13A-B89B-47ED-BAA9-DBAF8B92AD20}|EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\mihirb\\downloads\\employeemanagementapp\\employeemanagementapp\\employeemanagementapp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A9CED13A-B89B-47ED-BAA9-DBAF8B92AD20}|EmployeeManagementApp\\EmployeeManagementApp.csproj|solutionrelative:employeemanagementapp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-09T17:31:27.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\mihirb\\Downloads\\EmployeeManagementApp\\EmployeeManagementApp\\EmployeeManagementApp\\readme.txt",
               "RelativeDocumentMoniker": "EmployeeManagementApp\\readme.txt",
@@ -28,10 +45,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-09T17:28:47.187Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
