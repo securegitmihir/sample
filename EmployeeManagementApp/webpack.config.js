@@ -5,7 +5,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 module.exports = {
     entry: {
         index: './wwwroot/js/index.js',
-        privacy: './wwwroot/js/index.js',
+        
         bootstrap:
             [
                 './node_modules/bootstrap/dist/css/bootstrap.min.css',
